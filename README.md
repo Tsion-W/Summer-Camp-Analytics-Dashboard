@@ -21,10 +21,9 @@ An end-to-end analytics solution for managing summer camp operations and finance
 
 ## Screenshot / Demo
 ![Dashboard Preview](screenshots/dashboard_preview.png)  
-*Replace with your actual screenshot or GIF.*
 
 ## Usage
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Summer-Camp-Analytics-Dashboard.git
+git clone https://github.com/Tsion-W/Summer-Camp-Analytics-Dashboard.git
 # Open the Power BI .pbix file to explore dashboards
